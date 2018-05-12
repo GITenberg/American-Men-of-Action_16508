@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16508#American-Men-of-Action
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2005-08-10'
 gutenberg_type: Text
